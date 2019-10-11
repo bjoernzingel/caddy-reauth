@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/freman/caddy-reauth/backend"
+	"github.com/bjoernzingel/caddy-reauth/backend"
 )
 
 func TestParseOptions(t *testing.T) {
