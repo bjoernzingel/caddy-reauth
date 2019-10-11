@@ -33,7 +33,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/freman/caddy-reauth/backend"
+	"github.com/bjoernzingel/caddy-reauth/backend"
 )
 
 // Backend name
