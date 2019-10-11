@@ -20,8 +20,7 @@ require (
 	github.com/hashicorp/go-cleanhttp v0.5.1 // indirect
 	github.com/hashicorp/go-getter v1.4.0
 	github.com/hashicorp/go-version v1.2.0 // indirect
-	github.com/klauspost/cpuid v1.2.1 // indirect
-	github.com/lucas-clemente/quic-go v0.12.0 // indirect
+	github.com/klauspost/cpuid v1.2.1 // indirect	
 	github.com/mholt/certmagic v0.7.2 // indirect
 	github.com/miekg/dns v1.1.17 // indirect
 	github.com/pkg/errors v0.8.1
