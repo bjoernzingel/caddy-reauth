@@ -27,7 +27,7 @@ package simple
 import (
 	"net/http"
 
-	"github.com/freman/caddy-reauth/backend"
+	"github.com/bjoernzingel/caddy-reauth/backend"
 )
 
 // Backend name
