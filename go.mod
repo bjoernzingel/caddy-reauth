@@ -28,6 +28,7 @@ require (
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/ulikunitz/xz v0.5.6 // indirect
 	go.opencensus.io v0.22.1 // indirect
+	github.com/lucas-clemente/quic-go v0.10.2 // indirect
 	golang.org/x/build v0.0.0-20190111050920-041ab4dc3f9d // indirect
 	golang.org/x/exp v0.0.0-20190919035709-81c71964d733 // indirect
 	golang.org/x/net v0.0.0-20190918130420-a8b05e9114ab // indirect
