@@ -1,4 +1,4 @@
-module github.com/freman/caddy-reauth
+module github.com/bjoernzingel/caddy-reauth
 
 go 1.12
 
