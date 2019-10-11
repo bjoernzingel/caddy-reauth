@@ -40,8 +40,8 @@ import (
 	"gopkg.in/yaml.v2"
 
 	"github.com/allegro/bigcache"
-	"github.com/freman/caddy-reauth/backend"
-	secrets "github.com/freman/caddy-reauth/lib/caddy-secrets"
+	"github.com/bjoernzingel/caddy-reauth/backend"
+	secrets "github.com/bjoernzingel/caddy-reauth/lib/caddy-secrets"
 )
 
 // Backend name
